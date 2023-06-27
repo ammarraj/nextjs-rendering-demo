@@ -12,6 +12,9 @@ yarn dev
 pnpm dev
 ```
 
+
+> **__Note__** To be able to see the differences between different rendering methods, you'll need to build the project using `npm run build` and then run the server using `npm start`.
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
